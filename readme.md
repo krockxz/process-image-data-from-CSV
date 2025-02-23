@@ -1,7 +1,3 @@
-### **📌 Complete `README.md` for Your FastAPI Project**
-This is a **ready-to-use `README.md` file** that you can **copy-paste** and push to GitHub.
-
----
 
 ```md
 # 🚀 FastAPI Image Processing System
